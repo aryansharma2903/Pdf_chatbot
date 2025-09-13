@@ -1,0 +1,12 @@
+streamlit==1.28.0
+python-dotenv==1.0.0
+unstructured[pdf]==0.10.30
+langchain-groq==0.1.5
+langchain-core==0.2.10
+langchain-mistralai==0.1.8
+langchain-chroma==0.1.2
+langchain==0.2.6
+PyMuPDF==1.23.5
+chromadb==0.4.15
+uuid
+base64
