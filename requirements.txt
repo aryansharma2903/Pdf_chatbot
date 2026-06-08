@@ -10,6 +10,3 @@ PyMuPDF==1.23.5
 chromadb==0.4.15
 uuid
 base64
-pymupdf
-langchain
-langchain-mistralai
